@@ -1,21 +1,8 @@
 # Lab 04 - SOP/POS and KMaps
 
-In this lab, you’ve learned how to apply KMaps, Sum Of Products and Products of
-sums to simplify digital logic equations. Then, you’ve proven out that they work
-using an implemented design on your Basys3 boards.
-
-## Rubric
-
-| Item | Description | Value |
-| ---- | ----------- | ----- |
-| Summary Answers | Your writings about what you learned in this lab. | 25% |
-| Question 1 | Your answers to the question | 25% |
-| Question 2 | Your answers to the question | 25% |
-| Question 3 | Your answers to the question | 25% |
-
 ## Lab Summary
 
-Summarize your learnings from the lab here.
+In this lab, we learned the basics of optimizing an equation using a KMap. We started with a truth table, then create a unoptimized Sum of Products. Then, using a KMap, we created an optimized SOP and an optimized POS by grouping 1s and 0s into groups of powers of 2. We then compared the optimized equations to the unoptimized SOP to confirm that they were equivalent. Finally, we programmed our equations onto a Basys3 FPGA board.
 
 ## Lab Questions
 
