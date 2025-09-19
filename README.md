@@ -1,5 +1,7 @@
 # Lab 04 - SOP/POS and KMaps
 
+By Joshua Richmond and Dylan Duljkovic
+
 ## Lab Summary
 
 In this lab, we learned the basics of optimizing an equation using a KMap. We started with a truth table, then create a unoptimized Sum of Products. Then, using a KMap, we created an optimized SOP and an optimized POS by grouping 1s and 0s into groups of powers of 2. We then compared the optimized equations to the unoptimized SOP to confirm that they were equivalent. Finally, we programmed our equations onto a Basys3 FPGA board.
