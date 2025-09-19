@@ -1,0 +1,24 @@
+09:17:16 INFO  : updated workspace path: C:\Users\Joshua\Documents\College\ECE230L\Week_3_Lab_Files
+09:17:16 INFO  : created .gitignore file for the project C:\Users\Joshua\Documents\College\ECE230L\Week_3_Lab_Files
+09:18:41 INFO  : [INFO]: Initializing repositories
+09:18:41 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+09:18:41 INFO  : Successfully created repository data at C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua16663818495397737393
+09:18:41 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua5250141668801038716 -r C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua16663818495397737393\.repo.yaml
+09:18:42 INFO  : Embedded Template List generated successfully
+09:18:42 INFO  : cmd.exe, /C, empyro.bat repo -st   D:\Xilinx\2025.1\Vitis\data\embeddedsw
+09:18:46 INFO  : [INFO]: Initializing repositories
+09:18:46 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+09:18:46 INFO  : Successfully created repository data at C:\Users\Joshua\Documents\College\ECE230L\Week_3_Lab_Files/_ide\.wsdata
+09:18:46 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua15638349832756757776 -r C:\Users\Joshua\Documents\College\ECE230L\Week_3_Lab_Files\_ide\.wsdata\.repo.yaml
+09:18:47 INFO  : Embedded Template List generated successfully
+09:18:47 INFO  : cmd.exe, /C, empyro.bat repo -st  D:\Xilinx\2025.1\Vitis\data\embeddedsw
+09:18:50 INFO  : [INFO]: Initializing repositories
+09:18:50 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+09:18:50 INFO  : Successfully created repository data at C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua12406147515981586647
+09:18:50 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua16160509712822931508 -r C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua12406147515981586647\.repo.yaml
+09:18:51 INFO  : Embedded Template List generated successfully
+10:18:29 INFO  : connection terminated
+10:18:29 INFO  : connection terminated
+10:18:29 INFO  : scheduling shutdown timer for 2 seconds ...
+10:18:31 INFO  : Terminating Vitis C++ Server
+10:18:31 INFO  : Vitis C++ Server terminated
